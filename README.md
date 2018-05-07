@@ -1,6 +1,6 @@
 ## Intro
 
-![images/logo.png]
+![tera-logo](images/logo.png)
 
 This is my personal dev blog for [Google Summer of Code 2018](https://github.com/ar0ne/gsoc.git)!
 
