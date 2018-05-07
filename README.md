@@ -2,7 +2,7 @@
 
 ![tera-logo](images/logo.png)
 
-This is my personal dev blog for [Google Summer of Code 2018](https://github.com/ar0ne/gsoc.git)!
+This is my personal dev blog for [Google Summer of Code 2018](https://summerofcode.withgoogle.com/projects/#6264444787621888)!
 
 Here I'll describe all my contributions to cool voxel game [Terasology](https://github.com/MovingBlocks/Terasology), different problems and hacks during the development. 
 
