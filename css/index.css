@@ -45,3 +45,14 @@ html, body {
 	content: '\f026';
 	padding-right: .2em;
 }
+
+td img {
+    width: 80%;
+    text-align: center;
+    display: block;
+    margin: 2em;
+}
+
+h2 {
+    font-size: 2em;
+}
