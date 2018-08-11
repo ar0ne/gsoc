@@ -56,3 +56,13 @@ td img {
 h2 {
     font-size: 2em;
 }
+
+.small-image img {
+    width: auto;
+    margin: 2em 0;
+}
+
+.middle-image img {
+    width: 60%;
+    margin: 2em 0;
+}
